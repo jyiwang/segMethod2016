@@ -1,2 +1,2 @@
 # segMethod2016
-High resolution T1 weighted scans and corresponding cerebellum and brainstem masks
+Contains cerebellum and brainstem masks from FreeSurfer and manually corrected masks. Also contains corresponding high resolution T1 weighted scans. 
